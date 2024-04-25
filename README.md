@@ -18,11 +18,11 @@ For every guess, the application will print 'bull' (correct symbol at correct lo
 Example: secret code- > '9374'
 
 Turn 1:
-user input -> 'a34n'.
+user input -> '8341'.
 output -> "Grade: 1 bull and 1 cow". 
 
 Turn 2:
-user input -> 'a3n4'.
+user input -> '8314'.
 output -> "Grade: 2 bulls". 
 
 Turn 3:
