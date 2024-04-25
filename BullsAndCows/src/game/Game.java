@@ -5,9 +5,7 @@ import game.util.RandomStringGenerator;
 import java.util.Scanner;
 
 public class Game {
-
-    //private static final String BULL = "bull";
-    //private static final String COW = "cow";
+    
     private static final int BULL = 0;
     private static final int COW = 1;
 
