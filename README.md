@@ -1,7 +1,7 @@
 # bulls-and-cows
 Guessing game application.
 
-Hyperskill project (Introduction to Java). Stage 7/7.
+Hyperskill project "Bulls and cows" (Introduction to Java). Stage 7/7.
 
 Guessing game application that creates a secret code (random text string) based on user input that can 
 consist of numbers '0-9' and letters 
