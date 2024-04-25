@@ -2,7 +2,8 @@
 Guessing game application.
 
 Guessing game application that creates a secret code (random text string) based on user input that can 
-consist of numbers '0-9' and letters 'a-z'. 
+consist of numbers '0-9' and letters 
+'a-z'. 
 
 The user chooses the length of the secret code, and how many different symbols it can consist of. The
 secret code can not contain duplicates.
